@@ -11,7 +11,8 @@ import SwiftUI
 struct SquareMeApp: App {
     var body: some Scene {
         WindowGroup {
-            CalculationView()
+                CalculationView()
+            }
         }
     }
-}
+
