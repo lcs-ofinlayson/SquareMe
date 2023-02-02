@@ -51,8 +51,8 @@
 		81A76DEF298C40AA0059C9F5 /* SquareMe */ = {
 			isa = PBXGroup;
 			children = (
-				81A76DFE298C40F20059C9F5 /* Views */,
 				81A76DF0298C40AA0059C9F5 /* SquareMeApp.swift */,
+				81A76DFE298C40F20059C9F5 /* Views */,
 				81A76DF4298C40AC0059C9F5 /* Assets.xcassets */,
 				81A76DF6298C40AC0059C9F5 /* Preview Content */,
 			);
